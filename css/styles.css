@@ -1,0 +1,16 @@
+.best {
+  border: 4px solid gold;
+}
+
+.flashy {
+  color: #f00;
+  font-style: italic;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2em;
+}
